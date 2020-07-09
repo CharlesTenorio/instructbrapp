@@ -17,6 +17,7 @@ python-decouple = "*"
 dj-database-url = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
+django-s3-folder-storage = "*"
 
 [requires]
 python_version = "3.8"
